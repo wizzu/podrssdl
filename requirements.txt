@@ -1,0 +1,4 @@
+click
+feedparser
+requests
+unidecode
